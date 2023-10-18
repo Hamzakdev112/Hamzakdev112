@@ -13,6 +13,7 @@ Just a casual programmer trying to make sense of nature through Computer Science
 ## Let's Connect
 - LinkedIn: (https://www.linkedin.com/in/devhamzak)
 - Twitter: (https://twitter.com/yourusername)
+- - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
 - Personal Website/Blog: (https://www.yourwebsite.com)
 - Email: your.email@example.com
 
