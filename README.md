@@ -1,4 +1,4 @@
-Just a casual programmer trying to make sense of nature through Computer Science.
+#Just a casual programmer trying to make sense of nature through Computer Science.
 
 ## Skills & Technologies
 - **Languages:** TypeScript, JavaScript, Java, C++
