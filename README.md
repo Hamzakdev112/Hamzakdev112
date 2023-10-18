@@ -8,7 +8,7 @@ Just a casual programmer trying to make sense of nature through Computer Science
 - **Tools:** Git, VSCode, Docker, Prisma, GitKraken.
 
 ## GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=Hamzakdev112&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamzakdev112&show_icons=true&hide_title=true&count_private=true)
 
 ## Let's Connect
 - LinkedIn: (https://www.linkedin.com/in/yourusername/)
