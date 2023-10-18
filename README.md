@@ -11,7 +11,7 @@ Just a casual programmer trying to make sense of nature through Computer Science
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamzakdev112&show_icons=true&hide_title=true&count_private=true)
 
 ## Let's Connect
-- LinkedIn: (https://www.linkedin.com/in/yourusername/)
+- LinkedIn: (https://www.linkedin.com/in/devhamzak)
 - Twitter: (https://twitter.com/yourusername)
 - Personal Website/Blog: (https://www.yourwebsite.com)
 - Email: your.email@example.com
