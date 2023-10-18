@@ -12,9 +12,8 @@ Just a casual programmer trying to make sense of nature through Computer Science
 
 ## Let's Connect
 - LinkedIn: (https://www.linkedin.com/in/devhamzak)
-- Twitter: (https://twitter.com/yourusername)
-- - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Personal Website/Blog: (https://www.yourwebsite.com)
-- Email: your.email@example.com
+- Twitter: (https://twitter.com/devhamzak)
+- Personal Website/Blog: (https://www.devhamzak.com)
+- Email: hamza@socialhippos.com
 
 Feel free to reach out and connect. Let's collaborate and learn together! 😊
